@@ -15,7 +15,7 @@ import {
 } from "@material-tailwind/react";
 
 import Footer from "@/components/footer.jsx";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { redirect, useRouter } from "next/navigation.js";
 // import Toast from "../providers/toast.jsx";
 // import { toast } from "react-hot-toast";
